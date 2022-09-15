@@ -1,1 +1,2 @@
-# wk10assignment3
+Week 10 Assignment 3
+Jess Freyberger
